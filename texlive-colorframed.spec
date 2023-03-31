@@ -1,6 +1,6 @@
 Name:		texlive-colorframed
 Version:	64551
-Release:	1
+Release:	2
 Summary:	Fix color problems with the package "framed"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colorframed

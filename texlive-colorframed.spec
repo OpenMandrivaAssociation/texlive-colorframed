@@ -3,7 +3,7 @@ Version:	64551
 Release:	2
 Summary:	Fix color problems with the package "framed"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colorframed
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/colorframed
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colorframed.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colorframed.doc.r%{version}.tar.xz
